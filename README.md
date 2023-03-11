@@ -3,14 +3,12 @@
 This repository's purpose is to document important references related to Kubernetes. The references
 covers areas such as learning articles, good blogs, popular tools, books, upcoming roadmaps, important milestones/events etc. 
 
-## Articles
-
-## Blogs
+## Articles/Blogs
 
 ## Tools
 
-## References
+## References (Books etc.)
 
-## Roadmap
+## Roadmap (upcoming relesaes, features)
 
 ## Important Milestones/Events
